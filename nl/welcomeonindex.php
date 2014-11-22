@@ -4,6 +4,7 @@
 * @package phpBB Extension - Welcome on Index
 * @copyright (c) 2014 Stoker
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 *
 */
 
@@ -33,22 +34,22 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-    'UP_LATE'             		=> 'You\'re up late %1$s, Shouldn\'t you be sleeping?',
-    'UP_EARLY'             		=> 'Good Morning %1$s, You\'re up early today',
-    'GOOD_MORNING'           	=> 'Good Morning %1$s, What a lovely morning it is',
-	'GOOD_DAY'        			=> 'Good day %1$s, Hope you enjoy your time here',
-    'GOOD_AFTERNOON'       		=> 'Good Afternoon %1$s, Finally you are here',
-    'GOOD_EVENING'           	=> 'Good Evening %1$s, Nice to see you here',
-   	'GOOD_NIGHT'           		=> 'Good Night %1$s, time to go to bed',
+    'UP_LATE'             		=> 'Je bent nog laat op %1$s, moet jij nog niet naar je bed?',
+    'UP_EARLY'             		=> 'Goedemorgen %1$s, je bent er vroeg bij vandaag',
+    'GOOD_MORNING'           	=> 'Goedemorgen %1$s, wat is het een heerlijke ochtend',
+	'GOOD_DAY'        			=> 'Goededag %1$s, ik hoop dat je geniet van je tijd hier',
+    'GOOD_AFTERNOON'       		=> 'Goedemiddag %1$s, eindelijk, je bent er',
+    'GOOD_EVENING'           	=> 'Goedeavond %1$s, wat leuk om je hier te zien',
+   	'GOOD_NIGHT'           		=> 'Goedenacht %1$s, het is tijd om naar bed te gaan',
     'MEMBER_FOR'           		=> 'Member For:',
-    'WELCOME_GUEST'           	=> 'Guest',
-    'WELCOME_HOUR'           	=> 'Hour',
-    'WELCOME_HOURS'           	=> 'Hours',
-   	'WELCOME_DAY'           	=> 'Day',
-    'WELCOME_DAYS'           	=> 'Days',
-    'WELCOME_MONTH'           	=> 'Month',
-    'WELCOME_MONTHS'       		=> 'Months',
-   	'WELCOME_YEAR'           	=> 'Year',
-    'WELCOME_YEARS'				=> 'Years',
-	'WELCOME_TO_MOD'			=> 'Welcome to',
+    'WELCOME_GUEST'           	=> 'Gast',
+    'WELCOME_HOUR'           	=> 'Uur',
+    'WELCOME_HOURS'           	=> 'Uren',
+   	'WELCOME_DAY'           	=> 'Dag',
+    'WELCOME_DAYS'           	=> 'Dagen',
+    'WELCOME_MONTH'           	=> 'Maand',
+    'WELCOME_MONTHS'       		=> 'Maanden',
+   	'WELCOME_YEAR'           	=> 'Jaar',
+    'WELCOME_YEARS'				=> 'Jaren',
+	'WELCOME_TO_MOD'			=> 'Welkom bij',
 ));
